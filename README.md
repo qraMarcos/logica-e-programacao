@@ -12,20 +12,6 @@ Função que recebe dois números e retorna a média entre eles.
 
 Arquivo principal: src/calculadora.js Testes: test/calculadora.test.js (testes automatizados com Mocha e Chai para soma e média) 
 
-Configuração:
-package.json para dependências e scripts
-.gitignore para arquivos ignorados pelo Git
-Estrutura do Projeto
-logica-e-programacao/
-├── src/
-│   └── calculadora.js
-├── tests/
-│   └── calculadora.test.js
-├── package.json
-└── .gitignore
-Como Testar
-Os testes automatizados das funções estão no arquivo test/calculadora.test.js
-
 Para executar todos os testes com Mocha, utilize:
 npx mocha tests
 
