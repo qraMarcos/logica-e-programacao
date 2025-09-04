@@ -1,6 +1,9 @@
 Exercícios de Lógica e Programação com JavaScript.
+
 Os exercícios fazem parte das aulas de Lógica e Programação da Mentoria em Testes de Software do Júlio de Lima. 
+
 Objetivo: Treinar a implemescrita de funções em JavaScript, implementando funções de somar dois números e de calcular a média desses dois números. 
+
 Foram criados testes automatizados para ambas as funções utilizando Mocha e Chai, além de testes manuais.
 
 Funcionalidades
